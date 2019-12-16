@@ -8,8 +8,6 @@ The DSL was produced using [ANTLRWorks 2](http://tunnelvisionlabs.com/products/d
 
 &nbsp;
 
-&nbsp;
-
 ### Authors
 
 - [Manuel Sousa](https://github.com/MGCSousa)
