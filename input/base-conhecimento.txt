@@ -1,0 +1,28 @@
+BASE_CONHECIMENTO {
+    (Qual, é, [género, série, Home, Alone]) = "Comédia";
+    (Qual, é, [género, filme, The, Shawshank, Redemption]) = "Drama";
+    (Qual, é, [nome, primeiro, filme, Orson, Welles]) = "Citizen Kane";
+    (Qual, é, [quinto, episódio, série, Star, Wars]) = "The Empire Strikes Back";
+    (Quem, é, [diretor, filme, Pulp, Fiction]) = "Quentin Tarantino";
+    (Quem, é, [protagonista, filme, The, Matrix]) = "Keanu Reeves";
+    (Quem, é, [protagonista, filme, Top, Gun]) = "Brad Pitt";
+    (Quando, foi, [lançado, filme, The, Godfather]) = "1972";
+    (Quando, foi, [lançado, filme, Fight, Club]) = "1999";
+    (Onde, foi, [filmado, filme, The, Dark, Knight]) = "Chicago";
+}
+
+QUESTOES {
+    " Qual é o género da série Home Alone ? " ;
+    " Qual é o género do filme The Shawshank Redemption ? " ;
+    " Qual é o nome do primeiro filme de Orson Welles ? " ;
+    " Qual é o quinto episódio da série Star Wars ? " ;
+    " Quem é o diretor do filme Pulp Fiction ? " ;
+    " Quem é o protagonista do filme The Matrix ? " ;
+    " Quem é o protagonista do filme Top Gun ? " ;
+    " Quando foi lançado o filme The Godfather ? " ;
+    " Quando foi lançado o filme Fight Club ? " ;
+    " Onde foi filmado o filme The Dark Knight ? " ;
+    " Quem é o protagonista do The Matrix ? " ;
+	" Qual é o quinto episódio de Star Wars ? " ;
+	" Onde foi filmado The Dark Knight ? " ;
+}
