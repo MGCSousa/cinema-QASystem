@@ -14,8 +14,6 @@ The DSL was produced using [ANTLRWorks 2](http://tunnelvisionlabs.com/products/d
 
 - [Eduardo Gil Rocha](https://github.com/egrocha)
 
-- [Lázaro Vinícius](https://github.com/lazavini)
-
 &nbsp;
 
 *University Project - Gramáticas na Compreensão de Software, Universidade do Minho (2018-2019)*
