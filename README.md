@@ -4,7 +4,7 @@ Domain Specific Language, written in [ANTLR](https://www.antlr.org/), that tries
 
 ## Usage
 
-The DSL was produced using [ANTLRWorks 2](http://tunnelvisionlabs.com/products/demo/antlrworks), based on the NetBeans editor. As a result, there is no command line tool available to test the DSL. With this in mind, it is only possible to test the DSL using the editor, as it reads the input from the TXT file.
+Using the ANTLR tools, generate the parser and lexer and then run the given TXT file as input.
 
 &nbsp;
 
